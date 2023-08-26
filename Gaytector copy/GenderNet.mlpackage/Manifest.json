@@ -1,0 +1,24 @@
+{
+    "fileFormatVersion": "1.0.0",
+    "itemInfoEntries": {
+        "11812959-6230-4274-8BCE-9CF0C8088CC9": {
+            "author": "com.apple.CoreML",
+            "description": "External FeatureDescription Overlay",
+            "name": "FeatureDescriptions.json",
+            "path": "com.apple.CoreML/FeatureDescriptions.json"
+        },
+        "19B9E9E8-4A9A-49A0-8C62-3CAC4EA5C0A0": {
+            "author": "com.apple.CoreML",
+            "description": "CoreML Model Specification",
+            "name": "GenderNet.mlmodel",
+            "path": "com.apple.CoreML/GenderNet.mlmodel"
+        },
+        "FF738D74-B08A-4BC9-89B9-335B16E17ECC": {
+            "author": "com.apple.CoreML",
+            "description": "External Metadata Overlay",
+            "name": "Metadata.json",
+            "path": "com.apple.CoreML/Metadata.json"
+        }
+    },
+    "rootModelIdentifier": "19B9E9E8-4A9A-49A0-8C62-3CAC4EA5C0A0"
+}

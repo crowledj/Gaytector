@@ -1,5 +1,5 @@
 # Gaytector
-An iOS app (SwiftUI) project which detect gayness based on face masculinity through Machine Learning using GenderNet model
+An iOS app (SwiftUI) project which detect sexual orientation based on face masculinity through Machine Learning using GenderNet model
 
 ## Features
 Utilizes the GenderNet model for predicting the perceived masculinity of faces.
